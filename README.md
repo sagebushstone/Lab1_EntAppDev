@@ -1,5 +1,4 @@
-Sage Bushstone
-bushstse
+Sage Bushstone (bushstse)
 
 This is an introductory lab for Java Springboot in the class Enterprise App Development at the University of Cincinnati. There is an index page (the home page) and an about page.
 
